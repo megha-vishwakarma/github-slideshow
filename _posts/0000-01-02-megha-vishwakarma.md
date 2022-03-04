@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"You will never win if you never begin." - Helen Rowland
 Use the left arrow to go back!
